@@ -57,3 +57,42 @@ ul{
     color: #023047;
     padding: 199px 0 0 200px;
 }
+
+.d1{
+    color: #023047;
+    width: 577px;
+    font-family: Poppins;
+    font-weight: 400;
+    font-size: 20px;
+    margin: 18px 0 0 200px;
+}
+
+.btn{
+    margin: 42px 0 0 200px;
+}
+
+.btn1{
+    width: 161px;
+    height: 51px;
+    font-family: Poppins;
+    font-weight: 700;
+    color: #F1FAEE;
+    background-color: #023047;
+    border-radius: 8px;
+    border: none;
+}
+
+.btn2{
+    margin: 0 0 0 42px;
+    width: 161px;
+    height: 51px;
+    font-family: Poppins;
+    font-weight: 700;
+    color: #023047;
+    background-color: #F1FAEE;
+    border-radius: 8px;
+}
+
+.modelo{
+    margin: -450px 0 0 1100px;
+}
