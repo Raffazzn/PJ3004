@@ -5,6 +5,10 @@
     list-style: none;
 }
 
+body{
+    overflow:hidden
+}
+
 .cima{
     height: 100px;
     display: flex;
@@ -94,6 +98,6 @@ ul{
 }
 
 .modelo{
-    margin: -459px 0 0 1080px;
+    margin: -455px 0 0 1080px;
     height: 750px;
 }
