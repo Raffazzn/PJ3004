@@ -48,10 +48,9 @@ ul{
 }
 
 .img0{
-    Width:36px;
-    Height:36px;
-    border: none;
-    background-color: white;
+    width: 36px;
+    height: 36px;
+    margin: 37px 0 0 42px;
 }
 
 .titulo{
