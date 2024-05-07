@@ -48,9 +48,10 @@ ul{
 }
 
 .img0{
-    width: 36px;
-    height: 36px;
-    margin: 37px 0 0 42px;
+    Width:36px;
+    Height:36px;
+    border: none;
+    background-color: white;
 }
 
 .titulo{
@@ -101,3 +102,9 @@ ul{
     margin: -455px 0 0 1080px;
     height: 750px;
 }
+
+.box-escuro{
+    background-color: #023047;
+    color: white;
+}
+
